@@ -1,6 +1,6 @@
 # NanoGPT Shakespeare Trainer
 
-This repository contains an implementation of a 124M parameter decoder-only transformer model trained on Shakespeare text. The model is based on the GPT-2 architecture and was intentionally overfitted to demonstrate viability of this transformer architecture.
+This repository contains an implementation of a 152M parameter decoder-only transformer model trained on Shakespeare text. The model is based on the GPT-2 architecture and was intentionally overfitted to demonstrate viability of this transformer architecture.
 
 ## Model Architecture
 
