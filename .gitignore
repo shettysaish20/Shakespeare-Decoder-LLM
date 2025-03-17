@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+sdist/
+*.egg-info/
+*.egg
+*.whl
+*.lib
+
+# PyInstaller
+/dist
+/build
+
+# IDE
+.idea/
+*.swp
+*~
+tmp/
+
+# OS
+.DS_Store
+
+# Poetry
+poetry.lock
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
